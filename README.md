@@ -14,12 +14,12 @@ Currently an **Electrical Engineering Intern at NVIDIA**, working on **power ana
 ---
 
 ## 📌 Featured Projects
-- [**UART-Controlled Analog Signal Visualization**](link-to-repo) – 12-bit ADC sampling with event-triggered acquisition and UART real-time output.
-- [**SPI-Based Accelerometer & Gyroscope Data Logging**](link-to-repo) – IMU sensor integration over SPI with interrupt-driven UART streaming.
-- [**High Voltage Battery Cell Testing**](link-to-repo) – First-order Thevenin battery model parameter extraction from experimental data.
+- [**UART-Controlled Analog Signal Visualization**]([link-to-repo](https://github.com/EnochWong521/UART-Enabled-Analog-Signal-Acquisition-Visualization)) – 12-bit ADC sampling with event-triggered acquisition and UART real-time output.
+- [**SPI-Based Accelerometer & Gyroscope Data Logging**]([link-to-repo](https://github.com/EnochWong521/SPI-Based-Accelerometer-Gyroscope-Data-Acquisition)) – IMU sensor integration over SPI with interrupt-driven UART streaming.
+- [**High Voltage Battery Cell Testing**]([link-to-repo](https://github.com/EnochWong521/HV-Battery-Cell-Modeling)) – First-order Thevenin battery model parameter extraction from experimental data.
 
 ---
 
 ## 📫 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/your-link)  
-- [Email](mailto:your-email@example.com)  
+- [LinkedIn](www.linkedin.com/in/enoch-wong-595743290)  
+- [Email](enoch3d14@gmail.com)  
