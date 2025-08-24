@@ -6,9 +6,9 @@ Currently an **Electrical Engineering Intern at NVIDIA**, working on **power ana
 ---
 
 ## 🔧 Skills
-- **Programming**: Embedded C, Verilog, Python, MATLAB
+- **Programming**: SystemVerilog, Verilog, Embedded C, Python, MATLAB
 - **Hardware Interfaces**: SPI, UART, ADC, Event-Driven Systems
-- **Tools**: Atmel Studio, ModelSim, SolidWorks (CSWA), Git
+- **Tools**: Vivado, ModelSim, Quartus, Atmel Studio, SolidWorks (CSWA), Git
 - **Specialties**: FPGA Development, Power Electronics, Data Analysis (NumPy, Pandas, Matplotlib)
 
 ---
