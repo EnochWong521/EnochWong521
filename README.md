@@ -36,4 +36,4 @@ Currently an intern at NVIDIA (GPU/CPU/SoC Power Performance)
 
 ## Connect
 - Email: [enoch3d14@gmail.com](mailto:enoch3d14@gmail.com)  
-- LinkedIn: [linkedin.com/in/enoch-wong](https://www.linkedin.com/in/enoch-wong-595743290)
+- LinkedIn: [linkedin.com/in/enoch-wong-595743290](https://www.linkedin.com/in/enoch-wong-595743290)
