@@ -2,7 +2,7 @@
 
 Electrical Engineering @ University of Florida (Class of 2027)  
 Focused on **digital design, hardware systems, and embedded firmware**  
-Currently an intern at NVIDIA (PerfLab – Power & Performance)
+Currently an intern at NVIDIA (GPU/CPU/SoC Power Performance)
 
 ---
 
