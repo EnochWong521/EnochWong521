@@ -2,25 +2,28 @@
 
 Electrical Engineering @ University of Florida (Class of 2027)  
 Focused on **digital design, hardware systems, and embedded firmware**  
-Currently an intern at NVIDIA (PerfLab – Power & Performance)
+Currently an intern at NVIDIA (GPU/CPU/SoC Power Performance)
 
 ---
 
 ## Featured Projects
-- **[RISC-V 3-Stage CPU](https://github.com/EnochWong521/riscv-3stage-cpu)**  
-  SystemVerilog implementation of a pipelined RV32I CPU with hazard handling and testbenches.
+- **[riscv-3stage-cpu](https://github.com/EnochWong521/riscv-3stage-cpu)**  
+  RTL implementation of a 5-stage pipelined RISC-V RV32I CPU core in SystemVerilog, featuring synchronous write + combinational read register file, hazard detection, and forwarding.
 
-- **[Systolic Array Accelerator](https://github.com/EnochWong521/systolic-array-accelerator)**  
-  Parameterized 4×4 systolic array for matrix multiplication — aligned with GPU/ML workloads.
+- **[systolic-array-accelerator](https://github.com/EnochWong521/systolic-array-accelerator)**  
+  RTL implementation of a systolic array accelerator for matrix multiplication.
 
-- **[SystemVerilog Modules Library](https://github.com/EnochWong521/sv-modules-library)**  
-  A collection of smaller modules (ALU, LFSR, SRAM, comparators) with self-checking testbenches.
+- **[battery-cell-modeling](https://github.com/EnochWong521/battery-cell-modeling)**  
+  Analysis of a high-voltage battery cell under 10A load using a first-order Thevenin model. Includes OCV fitting, transient response correction, and estimation of internal resistance and capacitance.
 
-- **[Embedded Firmware Projects](https://github.com/EnochWong521/embedded-firmware-projects)**  
-  NRF24L01 RF communication, ESP32 Wi-Fi modules, and other C/embedded projects.
+- **[spi-imu-data-logger](https://github.com/EnochWong521/spi-imu-data-logger)**  
+  Firmware for SPI communication with an LSM6DSL IMU to acquire accelerometer and gyroscope data, using interrupts for efficient sampling and UART for real-time visualization.
 
-- **[Battery Cell Modeling](https://github.com/EnochWong521/battery-cell-modeling)**  
-  High-voltage battery simulation and modeling in Python/Matlab.
+- **[uart-signal-visualization](https://github.com/EnochWong521/uart-signal-visualization)**  
+  Event-driven 12-bit ADC sampling with UART-controlled real-time signal visualization on AVR XMEGA.
+
+- **[digital-design-learning](https://github.com/EnochWong521/digital-design-learning)**  
+  Verilog implementations of digital design modules (ALU, SRAM, decoders, shift registers, counters) with synthesizable RTL and self-checking testbenches.
 
 ---
 
