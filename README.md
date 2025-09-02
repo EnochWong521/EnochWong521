@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Enoch Wong
+# Hi, I'm Enoch Wong
 
-🎓 Electrical Engineering @ University of Florida (Class of 2027)  
-🔬 Passionate about **digital design, hardware systems, and embedded firmware**  
-💻 Currently an intern at **NVIDIA** (GPU/CPU/SoC Power Performance)
+Electrical Engineering @ University of Florida (Class of 2027)  
+Focused on **digital design, hardware systems, and embedded firmware**  
+Currently an intern at NVIDIA (PerfLab – Power & Performance)
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 - **[RISC-V 3-Stage CPU](https://github.com/EnochWong521/riscv-3stage-cpu)**  
   SystemVerilog implementation of a pipelined RV32I CPU with hazard handling and testbenches.
 
@@ -24,13 +24,13 @@
 
 ---
 
-## 🛠 Skills & Tools
+## Skills & Tools
 **Hardware / RTL**: SystemVerilog, Verilog, Vivado, ModelSim, Cadence Virtuoso  
 **Embedded / Software**: C, Python, MATLAB, Git, microcontrollers (ESP32, ATxmega)  
 **Concepts**: Pipelining, FSMs, Hazard Detection, Embedded Communication, Power/Performance Analysis
 
 ---
 
-## 📫 Connect
-- 📧 [Email](mailto:enoch3d14@gmail.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/enoch-wong)  
+## Connect
+- Email: [enoch3d14@gmail.com](mailto:enoch3d14@gmail.com)  
+- LinkedIn: [linkedin.com/in/enoch-wong](https://linkedin.com/in/enoch-wong)  
